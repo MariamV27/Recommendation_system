@@ -1,3 +1,6 @@
+![enter image description here](https://assets.soyhenry.com/LOGO-REDES-01_og.jpg)
+
+
 #  Sistema de recomendaciones - Primer proyecto invidivual.
 
 Hola, mi nombre es **Mariam** y en este primer proyecto individual para la carrera de Data Science en Soy Henry, se realizó un proceso de ETL (extract, transform and load) utilizando tres datasets. Se extrajo la información de un juego para identificar otros juegos similares. El proyecto incluye funciones para los endpoints que se utilizarán en la API y cuenta con un notebook que contiene el ETL, el análisis exploratorio de datos (EDA) y la creación de dichas funciones. Además, posee un archivo main.py con la información de las APIs y una carpeta data con los archivos parquet del proyecto.
